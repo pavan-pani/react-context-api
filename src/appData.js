@@ -1,0 +1,20 @@
+export const appData=[
+    {
+        id:1,
+        brandname:"nokia",
+        prize:1000,
+        model:2020
+      },
+      {
+        id:2,
+        brandname:"realme",
+        prize:1200,
+        model:2022
+      },
+      {
+        id:3,
+        brandname:"samsang",
+        prize:1100,
+        model:2021
+      }
+]
